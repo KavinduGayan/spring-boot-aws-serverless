@@ -1,0 +1,1 @@
+A Sample AWS server less spring boot project.
